@@ -15,7 +15,7 @@ public class MyMaxmethod
         double[] myNums = {a, b, c};
         double maximum = myNums.Max();
         Console.WriteLine("The maximum of the three numbers is: " +maximum);
-        return maximum;
+        return maximum; 
 
 
     }
